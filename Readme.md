@@ -13,7 +13,7 @@ Get All Logs:
 ![Get All Logs](testImages/GetAllLogs.png)
 
 Get Log by ID:
-![Get Log by ID](testImages/LogById.png)
+![Get Log by ID](testImages/logById.png)
 
 Update Log: 
 ![Update Log](testImages/LogUpdate.png)
