@@ -1,22 +1,22 @@
 
 
 Register User:
-![Register User](https://github.com/chels-s/workoutlog-server/images/userRegistrationTest.png)
+![Register User](testImages/userRegistrationTest.png)
 
 Login User:
-![Login User](\testImages\userLoginTest.png)
+![Login User](testImages/userLoginTest.png)
 
 Create Log:
-![Create Log](\testImages\logCreation.png)
+![Create Log](testImages/logCreation.png)
 
 Get All Logs:
-![Get All Logs](\testImages\GetAllLogs.png)
+![Get All Logs](testImages/GetAllLogs.png)
 
 Get Log by ID:
-![Get Log by ID](\testImages\userRegistrationTest.png)
+![Get Log by ID](testImages/LogById.png)
 
 Update Log: 
-![Update Log](\testImages\LogUpdate.png)
+![Update Log](testImages/LogUpdate.png)
 
 Delete Log:
-![Delete Log](\testImages\deleteLog.png)
+![Delete Log](testImages/deleteLog.png)
