@@ -1,7 +1,7 @@
 
 
 Register User:
-![Register User](https://github.com/chels-s/workoutlog-server/images/userRegistrationTest.png)
+![Register User](testImages/userRegistrationTest.png)
 
 Login User:
 ![Login User](\testImages\userLoginTest.png)
